@@ -1,0 +1,5 @@
+{
+  "server": true,
+  "host": "localhost",
+  "port": 4000
+}

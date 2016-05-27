@@ -1,0 +1,28 @@
+{
+  "name": "procksy",
+  "version": "0.0.1",
+  "description": "Simple, fast, streaming HTTP Proxy with an easy interface",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ozthekoder/procksy.git"
+  },
+  "keywords": [
+    "fast",
+    "streaming",
+    "proxy",
+    "http",
+    "pipe",
+    "piping",
+    "bridge"
+  ],
+  "author": "Osman Ozdemir <oozdemir2704@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ozthekoder/procksy/issues"
+  },
+  "homepage": "https://github.com/ozthekoder/procksy#readme"
+}
